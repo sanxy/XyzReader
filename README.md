@@ -19,8 +19,8 @@
 <!-- update these accordingly -->
 
 [1]: http://www.twitter.com/wsanxy
-[2]: http://www.facebook.com/sanxynet
+[2]: http://www.facebook.com/sanxy
 [4]: https://www.linkedin.com/in/sanxy/
-[5]: https://github.com/sanxynet
+[5]: https://github.com/sanxy
 
 
